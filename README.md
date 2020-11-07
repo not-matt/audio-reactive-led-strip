@@ -1,3 +1,12 @@
+
+
+## This is an old project!
+
+Audio reactive LED software has come on in leaps and bounds since I started working on this project. 
+I'm currently workong on LedFx, which support multiple devices and better effects.
+
+[Check out LedFx for the latest and greatest!](https://github.com/ahodges9/LedFx/)
+
 ## Introduction
 
 All in one lighting solution for your computer. Mood lighting? Club effects?
@@ -5,12 +14,6 @@ All in one lighting solution for your computer. Mood lighting? Club effects?
 Lighting your room or office should be a simple procedure, with flexibilty to transition between moods. 
 
 Get yourself some LED strips, and you can set this up yourself. Follow the simple steps outlines below to tune your space to a mood that fits you.
-
-## Where is it?
-
-This is the old fork. It stays here for until compatability issues are resolved.
-
-[Please head towards this repo for all information and updates](https://github.com/not-matt/Systematic-LEDs)
 
 ## Installation
 
